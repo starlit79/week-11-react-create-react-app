@@ -2,7 +2,6 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Clock from './Clock';
-import App from "./App";
 
 function App (){
   return (
